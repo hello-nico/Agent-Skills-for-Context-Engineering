@@ -215,8 +215,6 @@ This repository follows the Agent Skills open development model. Contributions a
 
 Feel free to contact [Muratcan Koylan](https://x.com/koylanai) for collaboration opportunities or any inquiries.
 
-[![Sponsor via GitHub](https://img.shields.io/badge/Sponsor-muratcankoylan-pink?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/muratcankoylan)
-
 ## License
 
 MIT License - see LICENSE file for details.
